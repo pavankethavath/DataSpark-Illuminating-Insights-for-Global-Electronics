@@ -58,7 +58,7 @@ Global Electronics aims to enhance customer satisfaction, optimize operations, a
 
 3. **Interactive Dashboards**
    - Visualizations highlighting customer segmentation, sales trends, product performance, and store operations.
-   - - ![Dashboard](images/customer.png)
+   - - ![Dashboard](images/customers.png)
    - - ![Dashboard](images/sales.png)
    - - ![Dashboard](images/stores.png)
 4. **Comprehensive Insights**
